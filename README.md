@@ -1,4 +1,6 @@
 # ARK Electronics Resources
+![ARK Electronics Logo](master-logo_transparent-background_RGB_PNG-150x150-1.png)
+
 
 Welcome to ARK Electronics! Below are the links to various ARK Electronics resources where you can find our latest products, updates, and community interactions.
 
