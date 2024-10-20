@@ -32,6 +32,7 @@ Welcome to ARK Electronics! Below are the links to various ARK Electronics resou
 
   **GitBook:**
   Check out or offical product guide on GitBook.
+  
   [Browse ARK Electronics GitBook](https://arkelectron.gitbook.io/ark-documentation)
 
   
